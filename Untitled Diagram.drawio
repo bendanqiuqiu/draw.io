@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T03:06:33.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nA-h244u6K_fZn8Uxq5n" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T03:13:34.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ExDWXRVAZ5n2qYkNN1TY" version="21.2.9" type="github">
   <diagram id="LaiAP2UO8Ww4A4DlmH_y" name="第 1 页">
     <mxGraphModel dx="954" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,14 +52,14 @@
         <mxCell id="J0a2PL-B8L8It2Uqq7TF-16" value="因子投资与投资组合" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="J0a2PL-B8L8It2Uqq7TF-20">
           <mxGeometry x="300" y="27.692307692307693" width="110" height="27.692307692307693" as="geometry" />
         </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-21" value="资本资产定价理论与实证研究" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="268" width="160" height="27.692307692307693" as="geometry" />
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-21" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="268" width="60" height="27.692307692307693" as="geometry" />
         </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-22" value="多因子资产定价模型" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="268" width="110" height="27.692307692307693" as="geometry" />
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-22" value="构建模型" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450.01" y="268" width="59.99" height="27.692307692307693" as="geometry" />
         </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-23" value="因子投资与投资组合" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="268" width="110" height="27.692307692307693" as="geometry" />
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-23" value="基础模型概述" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="268" width="80" height="27.69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
