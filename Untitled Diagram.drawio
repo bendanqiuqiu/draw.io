@@ -1,65 +1,113 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T03:13:34.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ExDWXRVAZ5n2qYkNN1TY" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T12:30:12.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="R3w0vj7Wsk0OHo6h9qnI" version="21.3.0" type="github">
   <diagram id="LaiAP2UO8Ww4A4DlmH_y" name="第 1 页">
     <mxGraphModel dx="954" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J0a2PL-B8L8It2Uqq7TF-2" target="J0a2PL-B8L8It2Uqq7TF-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-2" value="研究问题提出" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="80" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J0a2PL-B8L8It2Uqq7TF-3" target="J0a2PL-B8L8It2Uqq7TF-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-3" value="研究问题分析" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="252.5" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J0a2PL-B8L8It2Uqq7TF-4" target="J0a2PL-B8L8It2Uqq7TF-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-4" value="研究问题解决" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="352.5" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-5" value="研究问题总结与建议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="442.5" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-6" value="选题背景与意义、研究思路与结构、研究方法与创新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="80" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-17" value="研究数据与基础模型概述&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;1&lt;br&gt;1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="420" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="220" as="sourcePoint" />
-            <mxPoint x="720" y="220" as="targetPoint" />
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J0a2PL-B8L8It2Uqq7TF-2" target="J0a2PL-B8L8It2Uqq7TF-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="280" y="140" width="420" height="60" as="geometry" />
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-2" value="研究问题提出" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="80" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-8" value="理论基础与文献分析&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;1&lt;br&gt;1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="J0a2PL-B8L8It2Uqq7TF-20">
-          <mxGeometry width="420" height="60" as="geometry" />
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J0a2PL-B8L8It2Uqq7TF-3" target="J0a2PL-B8L8It2Uqq7TF-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-9" value="资本资产定价理论与实证研究" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="J0a2PL-B8L8It2Uqq7TF-20">
-          <mxGeometry x="10" y="27.692307692307693" width="160" height="27.692307692307693" as="geometry" />
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-3" value="研究问题分析" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="227.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-15" value="多因子资产定价模型" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="J0a2PL-B8L8It2Uqq7TF-20">
-          <mxGeometry x="180" y="27.692307692307693" width="110" height="27.692307692307693" as="geometry" />
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="J0a2PL-B8L8It2Uqq7TF-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="380" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-16" value="因子投资与投资组合" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="J0a2PL-B8L8It2Uqq7TF-20">
-          <mxGeometry x="300" y="27.692307692307693" width="110" height="27.692307692307693" as="geometry" />
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-4" value="研究问题解决" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="346" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-21" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="268" width="60" height="27.692307692307693" as="geometry" />
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-5" value="研究问题总结与建议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="445" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-22" value="构建模型" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="450.01" y="268" width="59.99" height="27.692307692307693" as="geometry" />
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-6" value="选题背景与意义、研究思路与结构、研究方法与创新" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="80" width="430" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="J0a2PL-B8L8It2Uqq7TF-23" value="基础模型概述" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="268" width="80" height="27.69" as="geometry" />
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-17" value="实证数据与基础模型概述&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;1&lt;br&gt;1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="279" y="210" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="200" as="sourcePoint" />
+            <mxPoint x="730" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-20" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="280" y="130" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-8" value="理论基础与文献分析&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;1&lt;br&gt;1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="J0a2PL-B8L8It2Uqq7TF-20" vertex="1">
+          <mxGeometry width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-9" value="资产定价研究" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="J0a2PL-B8L8It2Uqq7TF-20" vertex="1">
+          <mxGeometry x="45" y="27.69" width="90" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-15" value="因子挖掘研究" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="J0a2PL-B8L8It2Uqq7TF-20" vertex="1">
+          <mxGeometry x="145" y="27.69" width="90" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-16" value="机器学习与因子投资" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="J0a2PL-B8L8It2Uqq7TF-20" vertex="1">
+          <mxGeometry x="245" y="27.69" width="140" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-22" value="&lt;p style=&quot;line-height: 240%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;因子选取与构建&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;spacing=2;" parent="1" vertex="1">
+          <mxGeometry x="287.5" y="238" width="93" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="J0a2PL-B8L8It2Uqq7TF-23" value="FF多因子模型概述" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="390.5" y="238" width="110" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vn1gkYRNgfAr_Nr0Tdc-4" value="机器学习模型概述" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510.5" y="238" width="110" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vn1gkYRNgfAr_Nr0Tdc-5" value="检验统计量" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="238" width="73" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vn1gkYRNgfAr_Nr0Tdc-6" value="基于不同市场的Fama-French多因子模型&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;1&lt;br&gt;1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vn1gkYRNgfAr_Nr0Tdc-7" value="&lt;p style=&quot;line-height: 240%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;模型适用性&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="462.25" y="318" width="76" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vn1gkYRNgfAr_Nr0Tdc-8" value="&lt;p style=&quot;line-height: 240%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;模型稳定性&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="545.75" y="318" width="76" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vn1gkYRNgfAr_Nr0Tdc-9" value="&lt;p style=&quot;line-height: 240%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;模型评估指标&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="368.25" y="318" width="86" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vn1gkYRNgfAr_Nr0Tdc-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="280" as="sourcePoint" />
+            <mxPoint x="730" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Vn1gkYRNgfAr_Nr0Tdc-16" value="基于机器学习的因子投资组合模型&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;1&lt;br&gt;1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="360" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vn1gkYRNgfAr_Nr0Tdc-17" value="&lt;p style=&quot;line-height: 240%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;模型可视化&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="447.88" y="388" width="78.75" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vn1gkYRNgfAr_Nr0Tdc-18" value="&lt;p style=&quot;line-height: 240%;&quot;&gt;均方误差与命中率&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="531.38" y="388" width="115.25" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vn1gkYRNgfAr_Nr0Tdc-19" value="&lt;p style=&quot;line-height: 240%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;因子数据特性&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="353.88" y="388" width="86" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vn1gkYRNgfAr_Nr0Tdc-20" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="430" as="sourcePoint" />
+            <mxPoint x="730" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Vn1gkYRNgfAr_Nr0Tdc-21" value="研究结论、政策建议、不足与展望" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="430" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
